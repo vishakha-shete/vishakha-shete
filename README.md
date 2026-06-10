@@ -114,7 +114,7 @@
   <a href="https://linkedin.com/in/vishakha-shete">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/techstackgirl">
+  <a href="https://instagram.com/techystackgirl">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://twitter.com/vishakha_shete_">
